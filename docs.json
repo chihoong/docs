@@ -19,19 +19,22 @@
               "introduction",
               "quickstart",
               "development",
-              "upgrade",
-              "contactus"
             ]
           },
           {
-            "group": "Essentials",
+            "group": "Get Started",
             "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/settings",
-              "essentials/navigation",
-              "essentials/reusable-snippets"
+              "welcome",
+              "placement",
+              "signage",
+              "configuration",
+            ]
+          },
+          {
+            "group": "Support",
+            "pages": [
+              "upgrade",
+              "troubleshooting"
             ]
           }
         ]
@@ -64,9 +67,7 @@
           "icon": "book-open-cover"
         },
         {
-          "anchor": "Community",
-          "href": "https://mintlify.com/community",
-          "icon": "slack"
+          "pages": "Contact Us",
         },
         {
           "anchor": "Blog",
