@@ -18,16 +18,15 @@
             "pages": [
               "introduction",
               "quickstart",
-              "development",
+              "migrating"
             ]
           },
           {
-            "group": "Get Started",
+            "group": "Operations",
             "pages": [
-              "welcome",
-              "placement",
-              "signage",
-              "configuration",
+              "menu-management",
+              "kiosk-operations",
+              "loyalty"
             ]
           },
           {
